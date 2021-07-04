@@ -36,13 +36,13 @@ h1{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    text-align: left;
+    text-align: justify;
 }
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right;
-    text-align: left;
+    text-align: justify;
     padding-right: 10px;  
 }
 .experience-sec{
@@ -51,7 +51,7 @@ h1{
     background-position: left;
 }
 .experience-area{
-    text-align: left;
+    text-align: justify;
     width: 40%;
     margin:5%;
     padding-left: 20px;
@@ -65,10 +65,12 @@ h1{
     border-image:linear-gradient(orange, red);
     border-image-slice: 1;
     border-radius: 5px;
+    padding-top: 10px;
 }
 #baby{
     border-left: 7px solid;
     border-image:linear-gradient(blue, cyan);
     border-image-slice: 1;
     border-radius:  5px;
+    padding-top: 10px;
 }
