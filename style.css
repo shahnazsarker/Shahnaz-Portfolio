@@ -64,11 +64,11 @@ h1{
     border-left: 7px solid;
     border-image:linear-gradient(orange, red);
     border-image-slice: 1;
+    border-radius: 5px;
 }
 #baby{
     border-left: 7px solid;
     border-image:linear-gradient(blue, cyan);
     border-image-slice: 1;
-    
-
+    border-radius:  5px;
 }
